@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\Treasurejs"
+		},
+		{
+			"path": "..\\..\\New codes"
+		},
+		{
+			"path": "..\\..\\subnav"
+		},
+		{
+			"path": "..\\..\\ASSIGNMENT"
+		},
+		{
+			"path": "..\\..\\FREE CLASS"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "FREE CLASS"
+	}
+}
